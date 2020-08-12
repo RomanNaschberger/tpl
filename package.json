@@ -1,0 +1,23 @@
+{
+  "name": "kasfd",
+  "version": "1.0.0",
+  "description": "\"# tpl\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanNaschberger/tpl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanNaschberger/tpl/issues"
+  },
+  "homepage": "https://github.com/RomanNaschberger/tpl#readme",
+  "dependencies": {
+    "gridy-grid": "^1.4.4",
+    "hamburger-menu": "^0.3.4"
+  }
+}
